@@ -1,0 +1,22 @@
+[
+    {
+        "name": "ai-san",
+        "shields": 1,
+        "speed": 600,
+        "powerUpChance": 10,
+    },
+    {
+        "name": "kotaro-san",
+        "shields": 3,
+        "speed": 400,
+        "powerUpChance": 5,
+    },
+    {
+        "name": "tamaroh-san",
+        "shields": 5,
+        "speed": 200,
+        "powerUpChance": 2,
+    }
+]
+ 
+ 
