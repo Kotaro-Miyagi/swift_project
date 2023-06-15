@@ -22,8 +22,6 @@
 		A5B14F9C2A3951CA006850B5 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = A5B14F9B2A3951CA006850B5 /* GameScene.sks */; };
 		A5B14F9F2A3954D6006850B5 /* waves.json in Resources */ = {isa = PBXBuildFile; fileRef = A5B14F622A39467E006850B5 /* waves.json */; };
 		A5B14FA02A3954E0006850B5 /* enemy-types.json in Resources */ = {isa = PBXBuildFile; fileRef = A5B14F562A38A13C006850B5 /* enemy-types.json */; };
-		A5B14FA32A3AD08B006850B5 /* MyParticle.sks in Resources */ = {isa = PBXBuildFile; fileRef = A5B14FA12A3AD08B006850B5 /* MyParticle.sks */; };
-		A5B14FA42A3AD08B006850B5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A5B14FA22A3AD08B006850B5 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -43,8 +41,6 @@
 		A5B14F5F2A38CB16006850B5 /* EnemyNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnemyNode.swift; sourceTree = "<group>"; };
 		A5B14F622A39467E006850B5 /* waves.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = waves.json; sourceTree = "<group>"; };
 		A5B14F9B2A3951CA006850B5 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
-		A5B14FA12A3AD08B006850B5 /* MyParticle.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = MyParticle.sks; sourceTree = "<group>"; };
-		A5B14FA22A3AD08B006850B5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,8 +57,6 @@
 		A536FE292A374FE400B87599 = {
 			isa = PBXGroup;
 			children = (
-				A5B14FA12A3AD08B006850B5 /* MyParticle.sks */,
-				A5B14FA22A3AD08B006850B5 /* Assets.xcassets */,
 				A536FE342A374FE400B87599 /* swift_game */,
 				A536FE332A374FE400B87599 /* Products */,
 			);
@@ -160,8 +154,6 @@
 				A5B14F9F2A3954D6006850B5 /* waves.json in Resources */,
 				A5B14F552A384029006850B5 /* Starfield.sks in Resources */,
 				A536FE412A374FE400B87599 /* Main.storyboard in Resources */,
-				A5B14FA42A3AD08B006850B5 /* Assets.xcassets in Resources */,
-				A5B14FA32A3AD08B006850B5 /* MyParticle.sks in Resources */,
 				A536FE432A374FE500B87599 /* Assets.xcassets in Resources */,
 				A536FE462A374FE500B87599 /* LaunchScreen.storyboard in Resources */,
 				A5B14F9C2A3951CA006850B5 /* GameScene.sks in Resources */,
