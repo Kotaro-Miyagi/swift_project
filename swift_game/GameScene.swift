@@ -16,6 +16,9 @@ enum CollisionType: UInt32 {
     case enemyWeapon = 8
 }
 
+
+
+
 class GameScene: SKScene, SKPhysicsContactDelegate {
     let motionManager = CMMotionManager()
     let player = SKSpriteNode(imageNamed: "me")

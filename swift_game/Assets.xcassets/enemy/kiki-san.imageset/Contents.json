@@ -1,11 +1,11 @@
 {
   "images" : [
     {
-      "filename" : "kiki-san.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
+      "filename" : "kiki-san.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
